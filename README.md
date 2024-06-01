@@ -1,2 +1,1 @@
-# eBPF-Study
-Self Study
+# eBPF-Example
